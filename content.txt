@@ -1,0 +1,8 @@
+# link project : https://www.youtube.com/watch?v=BePJ1bBWk3E&ab_channel=DevOpsShack
+
+# link github : https://github.com/bzdgn/docker-spring-boot-java-web-service-example  
+
+# link jenkins : http://172.22.112.1:8080/job/Pipeline-Docker/   
+
+# link dockerhub repo : https://hub.docker.com/repository/docker/choukmohamed/adi_repo/general
+ 
